@@ -5,7 +5,7 @@ import csv
 import requests
 import configparser
 import os
-
+#github
 cfg_file = '/home/pi/audiocfg.ini'
 
 # read .ini according to section
